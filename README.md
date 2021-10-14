@@ -5,7 +5,7 @@
   <br>
   ✨ I´ve got a bunch of passions, coding and data are some of them.
   <br>
-  ✨ Currently working with Data Analytics for Bradesco. 
+  ✨ Currently working with Data Analytics at Bradesco. 
   <br>
   
   [![Find me Badge](https://img.shields.io/badge/-find%20me%20elsewhere!-blueviolet)](https://linktr.ee/ff0rever)
