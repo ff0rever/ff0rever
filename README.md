@@ -1,11 +1,11 @@
 ### oh hai 
 
 
-  ✨ I´m Laura <i> (she/her)</i> and I´m a Systems Development Student at PUC-PR.
+  ✨ I´m Laura <i> (she/her)</i> and I´m a Systems Development Analyst at Wipro Limited.
   <br>
-  ✨ I´ve got a bunch of passions and coding is one of them.
+  ✨ I´ve got a bunch of passions, coding and data are some of them.
   <br>
-  ✨ Currently learning and working with Java. 
+  ✨ Currently working with Data Analytics for Bradesco. 
   <br>
   
   [![Find me Badge](https://img.shields.io/badge/-find%20me%20elsewhere!-blueviolet)](https://linktr.ee/ff0rever)
