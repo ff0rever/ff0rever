@@ -7,6 +7,7 @@
   <br>
   <br>
   hello, i´m laura! jr. developer at wipro :) 
+  <br>
   based in brazil, i´m a curious soul which loves to learn new languages and new ways to communicate. 
   <br>
   <br>
