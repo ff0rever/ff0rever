@@ -1,6 +1,6 @@
 ### hello! i'm Laura :) 
 
-  <img align="left" alt="laua" height="130" width="170" src="https://64.media.tumblr.com/67ab70e1179ef0f550adab4135e905be/8b82c290c32c68d7-02/s500x750/cdfccb8fb3056b824c49b55ed712bbc89bd5250e.gifv">
+  <img align="left" alt="laua" height="130" width="170" src="https://64.media.tumblr.com/c307324c2d54e99ab63dcd1e38f9bef6/e6741a811bf17636-f8/s1280x1920/0869ded6d8b98a296be90934e4826e42ea6ee7d2.gifv">
   
   <br>
   <br>
