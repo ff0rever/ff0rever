@@ -1,4 +1,4 @@
-### hello! i'm Laura :) 
+
 
   <img align="left" alt="laua" height="100" width="600" src="https://64.media.tumblr.com/c307324c2d54e99ab63dcd1e38f9bef6/e6741a811bf17636-f8/s1280x1920/0869ded6d8b98a296be90934e4826e42ea6ee7d2.gifv">
   
@@ -6,6 +6,8 @@
   <br>
   <br>
   <br>
+  hello, i´m laura! jr. developer at wipro :) 
+  based in brazil, i´m a curious soul which loves to learn new languages and new ways to communicate. 
   <br>
   <br>
 
