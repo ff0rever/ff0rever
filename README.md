@@ -6,11 +6,10 @@
  <br>
  <br>
  <br>
+ <br>
   
 *hello, i´m laura :) 
 
- <br>
- 
 i´m a developer that loves creative coding and cats.*
 
   <br>
