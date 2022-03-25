@@ -8,11 +8,13 @@
  <br>
  <br>
   
-*hello, i´m laura :) 
-i´m a developer that loves creative coding and cats.*
+<p>*hello, i´m laura :)*</p>
+<p>*i´m a developer that loves creative coding and cats.*</p>
 
   <br>
+  
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ff0rever&layout=compact&langs_count=5&theme=material-palenight)]()
 
 
