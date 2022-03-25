@@ -7,7 +7,7 @@ i´m a developer that loves creative coding and cats.*
   
 ------------
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ff0rever&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ff0rever&langs_count=5&theme=material-palenight)]()
 
 ------------
 
