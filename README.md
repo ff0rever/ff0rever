@@ -1,9 +1,13 @@
  ------------
-  
+   <img align="left" alt="laua" height="100" width="700" src="https://64.media.tumblr.com/c307324c2d54e99ab63dcd1e38f9bef6/e6741a811bf17636-f8/s1280x1920/0869ded6d8b98a296be90934e4826e42ea6ee7d2.gifv">
+   
+   <br>
+   <br>
+   
 <p><i>hello, i´m laura :)</i></p>
 <p><i>a developer that loves creative coding and cats.</i></p>
 
- <img align="left" alt="laua" height="100" width="700" src="https://64.media.tumblr.com/c307324c2d54e99ab63dcd1e38f9bef6/e6741a811bf17636-f8/s1280x1920/0869ded6d8b98a296be90934e4826e42ea6ee7d2.gifv">
+
 
   <br>
   <br>
